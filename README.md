@@ -1,28 +1,42 @@
 # Java GUI Tic-Tac-Toe Game
 
-This is a simple **Tic-Tac-Toe** game made using **Java Swing GUI**. It is a two-player game where player **X** and player **O** take turns to mark the cells on a 3x3 board.
+## 📝 Summary
+
+This is a simple 2-player **Tic-Tac-Toe** game built using **Java Swing GUI**. Players take turns to mark X or O in a 3x3 grid. The first player to get three in a row wins. The game also detects ties and includes a restart option.
+
+---
+
+## ⭐ Features
+
+- Simple and clean user interface
+- Turn indicator for current player
+- Detects winner or tie
+- Highlights winning tiles
+- Restart button to play again
+
+---
+
+## 🛠️ Technology Used
+
+- Java (JDK)
+- Java Swing GUI components:
+  - `JFrame`, `JPanel`, `JButton`, `JLabel`, etc.
+
+---
+
+## 🖼️ Screenshot
 
 ![Tic-Tac-Toe Screenshot](tictactoe.png)
 
-## Features
+> 📌 Save your game screenshot as `screenshot.png` and place it in the same folder as this `README.md`.
 
-- Easy-to-use graphical user interface (GUI)
-- Turn indicator to show which player's turn it is
-- Highlights the winning tiles
-- Shows message for win or tie
-- Restart button to reset the game
+---
 
-## Technologies Used
+## 👤 Author
 
-- Java
-- Java Swing (JFrame, JPanel, JButton, JLabel, etc.)
+**Md. Riad Hasan**  
+BSCSE 
+**Uttara University**
 
-## How to Run
+---
 
-1. Make sure you have **Java JDK** installed on your computer.
-2. Clone or download this project.
-3. Compile and run the code:
-
-```bash
-javac GUI/TicTacToe.java
-java GUI.TicTacToe
