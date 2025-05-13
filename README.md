@@ -35,7 +35,7 @@ This is a simple 2-player **Tic-Tac-Toe** game built using **Java Swing GUI**. P
 ## 👤 Author
 
 **Md. Riad Hasan**  
-BSCSE 
+BSCSE   
 **Uttara University**
 
 ---
