@@ -25,8 +25,6 @@ This is a simple 2-player **Tic-Tac-Toe** game built using **Java Swing GUI**. P
 ---
 
 ## 🖼️ Screenshot
-
-![Tic-Tac-Toe Screenshot](tictactoe.png)
 <img src="tictactoe.png" alt="Tic-Tac-Toe Screenshot" width="400"/>
 
 ---
