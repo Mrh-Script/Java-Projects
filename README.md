@@ -2,6 +2,8 @@
 
 This is a simple **Tic-Tac-Toe** game made using **Java Swing GUI**. It is a two-player game where player **X** and player **O** take turns to mark the cells on a 3x3 board.
 
+![Tic-Tac-Toe Screenshot](tictactoe.png)
+
 ## Features
 
 - Easy-to-use graphical user interface (GUI)
@@ -24,4 +26,3 @@ This is a simple **Tic-Tac-Toe** game made using **Java Swing GUI**. It is a two
 ```bash
 javac GUI/TicTacToe.java
 java GUI.TicTacToe
-
