@@ -28,8 +28,6 @@ This is a simple 2-player **Tic-Tac-Toe** game built using **Java Swing GUI**. P
 
 ![Tic-Tac-Toe Screenshot](tictactoe.png)
 
-> 📌 Save your game screenshot as `screenshot.png` and place it in the same folder as this `README.md`.
-
 ---
 
 ## 👤 Author
